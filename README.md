@@ -1,5 +1,8 @@
 # Corpcalc
 
+[![Build Status](https://travis-ci.org/pseudomuto/corpcalc.svg?branch=master)](https://travis-ci.org/pseudomuto/corpcalc)
+[![codecov](https://codecov.io/gh/pseudomuto/corpcalc/branch/master/graph/badge.svg?branch=master)](https://codecov.io/gh/pseudomuto/corpcalc)
+
 A tool to help with determining whether to hold money in a corporation, pay yourself a salary or dividend or what.
 
 
